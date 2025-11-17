@@ -53,7 +53,7 @@ const App = () => {
       console.log(shuffled);
     };
     getData();
-  }, []);
+  }, [Data]);
 
   return (
     <div>
